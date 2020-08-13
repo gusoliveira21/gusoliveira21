@@ -12,7 +12,7 @@
 <a/>
 
 <a href='https://twitter.com/Guto______'>
-<img src='https://user-images.githubusercontent.com/42920754/89973259-4a3bd000-dc36-11ea-8beb-e2c13c18faeb.png' width="2.782%">
+<img src='https://user-images.githubusercontent.com/42920754/90180747-d27cbb00-dd85-11ea-90ed-f5a6d1df54a4.png'>
 <a/>
 
 <a href='https://www.instagram.com/gus_oliveira21/'>
