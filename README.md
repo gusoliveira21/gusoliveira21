@@ -3,7 +3,7 @@
 - :neckbeard: I am currently learning about Agile Methods, Node.js and other technologies to improve the results obtained during the development of the project.
 - 🤔 I'm looking for help for my professional growth, it never hurts.
 - 📫 **Email** : gustavo_nox@hotmail.com
-- :fire: **Skills** : C++; Java; Python; Android Studio ♥.
+- :fire: **Skills** : C++; Java; Python; Mysql; Android Studio ♥.
 
 
 <p align="center">
