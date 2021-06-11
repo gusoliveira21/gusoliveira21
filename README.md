@@ -1,26 +1,23 @@
-### Hi man, shall we program? 👋
+<h1 align = "justify"> Hi man <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, shall we program?</h1>
 
 - :neckbeard: I am currently learning about Agile Methods, Node.js and other technologies to improve the results obtained during the development of the project.
 - 🤔 I'm looking for help for my professional growth, it never hurts.
-- 📫 **Email** : gustavo_nox@hotmail.com
-- :fire: **Skills** : C++; Java; Python; Mysql; Android Studio ♥.
+ 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusoliveira21/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gus_oliveira21/)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavo_nox@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gusoliveira21)
 
+<br>
 
-<p align="center">
-<a href='https://www.facebook.com/GustavoOliveira20'>
-<img src='https://user-images.githubusercontent.com/42920754/89972725-e664d780-dc34-11ea-8a2a-763e0fe7b46b.png'>
-<a/>
+## 🚀💻 Technologies & Tools
 
-<a href='https://twitter.com/Guto______'>
-<img src='https://user-images.githubusercontent.com/42920754/90180747-d27cbb00-dd85-11ea-90ed-f5a6d1df54a4.png'>
-<a/>
+<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" width="8%"/> <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="8.5%"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" width="8.5%"/> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="8.5%"/> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="6%"/> <img alt="Git" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="9%"/> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="6%"/> 
+<img alt="Git" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="4.5%"/> 
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="6.5%"/>
 
-<a href='https://www.instagram.com/gus_oliveira21/'>
-<img src='https://user-images.githubusercontent.com/42920754/89972998-9fc3ad00-dc35-11ea-9e5d-0cb4bc0ec6f4.png'>
-<a/>
-  
-<a href='https://www.linkedin.com/in/gustavo-dami%C3%A3o-magina-de-oliveira-492b0015b/'>
-<img src='https://user-images.githubusercontent.com/42920754/89974534-b966f380-dc39-11ea-8b66-f165e56235be.png'>
-<a/>
-  
-<p/>
+<br>
+
+## ⚡ GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusoliveira21&show_icons=true&theme=radical)
