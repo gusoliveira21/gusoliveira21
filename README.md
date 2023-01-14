@@ -2,6 +2,10 @@
 
 - :neckbeard: I am currently learning about Agile Methods, Node.js and other technologies to improve the results obtained during the development of the project.
 - 🤔 I'm looking for help for my professional growth, it never hurts.
+
+- [Click here to see all my links](https://linkpop.com/gusoliveira21)
+
+
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusoliveira21/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gus_oliveira21/)
