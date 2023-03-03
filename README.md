@@ -42,10 +42,10 @@
 
 <p>
   <a href="https://github.com/gusoliveira21/BigPdf-Py">
-    <img src='https://user-images.githubusercontent.com/42920754/218257846-19527194-ef5b-4d9b-876b-a00323171620.png' width='56.3%' title='BigPdf-Py'>
+    <img src='https://user-images.githubusercontent.com/42920754/218257846-19527194-ef5b-4d9b-876b-a00323171620.png' width='56.7%' title='BigPdf-Py'>
   </a>
   <a href="https://github.com/gusoliveira21/webscraping-instagram">
-    <img src='https://user-images.githubusercontent.com/42920754/218257740-1743998c-3d7c-485c-9031-6bf951744ae7.gif' width='18.4%' title='webscraping'>
+    <img src='https://user-images.githubusercontent.com/42920754/218257740-1743998c-3d7c-485c-9031-6bf951744ae7.gif' width='18.3%' title='webscraping'>
   </a>
 </p>
 
