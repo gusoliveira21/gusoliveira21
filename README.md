@@ -25,15 +25,16 @@
  <a href="https://github.com/gusoliveira21/catGallery">
    <img src='https://user-images.githubusercontent.com/42920754/200445473-fe73a5c3-e1af-4af4-9383-c66563d35c2b.gif' width='16%'>
  </a>
+   <a href="https://github.com/gusoliveira21/Organizze">
+   <img src='https://user-images.githubusercontent.com/42920754/153854228-6e31fc2f-9b9d-4c5e-b5ae-f70440bd165f.gif' width='20.5%'>
+ </a>
  <a href="https://github.com/gusoliveira21/BusinessCard">
    <img src='https://user-images.githubusercontent.com/42920754/130893085-a447e599-8833-4f8b-893d-4086c595d29d.gif' width='20.5%'>
  </a>
   <a href="https://github.com/gusoliveira21/GameQuizKotlin">
    <img src='https://user-images.githubusercontent.com/42920754/144720724-ab76c8eb-e12e-45be-a156-7b12b8adc1e3.PNG' width='18.3%'>
  </a>
- <a href="https://github.com/gusoliveira21/Organizze">
-   <img src='https://user-images.githubusercontent.com/42920754/153854228-6e31fc2f-9b9d-4c5e-b5ae-f70440bd165f.gif' width='20.6%'>
- </a>
+
  
 </p>
 
