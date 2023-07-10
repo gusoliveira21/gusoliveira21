@@ -34,7 +34,9 @@
   <a href="https://github.com/gusoliveira21/GameQuizKotlin">
    <img src='https://user-images.githubusercontent.com/42920754/144720724-ab76c8eb-e12e-45be-a156-7b12b8adc1e3.PNG' width='18.3%'>
  </a>
-
+  <a href="https://github.com/gusoliveira21/pokedex-egsys">
+   <img src='https://github.com/gusoliveira21/catGallery/assets/42920754/5fd513cc-cfc2-462f-adb0-ac9aef838a84' width='16.0%'>
+ </a>
  
 </p>
 
