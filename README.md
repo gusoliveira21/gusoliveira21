@@ -37,7 +37,6 @@
   <a href="https://github.com/gusoliveira21/pokedex-egsys">
    <img src='https://github.com/gusoliveira21/catGallery/assets/42920754/5fd513cc-cfc2-462f-adb0-ac9aef838a84' width='16.0%'>
  </a>
- 
 </p>
 
 
