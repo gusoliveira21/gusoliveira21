@@ -58,3 +58,15 @@
   </a>
 </p>
 
+## 📐 Arquiteturas Mobile (KMP)
+
+- Projeto de estudos comparativos entre arquiteturas para Kotlin Multiplatform Mobile. Explore o funcionamento de cada abordagem com exemplos práticos usando Jetpack Compose e compartilhamento de código entre Android e iOS.
+ 
+<img src='https://raw.githubusercontent.com/gusoliveira21/KMP_ARCHITECTURE/4ee16c99d73a671a21bd43ca86fdf8a39903071c/Doc/arch_simple.svg' width='18.3%' title='arquitetura'>
+
+- **📦 Repositório:** [KMP_ARCHITECTURE](https://github.com/gusoliveira21/KMP_ARCHITECTURE)
+- **🧠 Arquiteturas:**
+  - MVVM (Unimodular)
+  - MVVM + Modularização
+  - MVC (Unimodular)
+
