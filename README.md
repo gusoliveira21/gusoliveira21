@@ -69,4 +69,6 @@
   - MVVM (Unimodular)
   - MVVM + Modularização
   - MVC (Unimodular)
-
+- **🧠 CI/CD:**
+  - Fastlane
+  - Github Actions
